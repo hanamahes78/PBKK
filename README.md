@@ -1,2 +1,4 @@
 # Tugas PBKK
-Hana Maheswari - 5025211182
+Nama : Hana Maheswari
+NRP : 5025211182
+Kelas : PBKK A
